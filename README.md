@@ -1,2 +1,2 @@
 # Java
-The programs are created for practises.
+The programs are created for practices.
